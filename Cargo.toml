@@ -20,7 +20,7 @@ sha2                 ="0.10"
 ark-ff               ={ version="0.5", features=["std"] }
 ark-crypto-primitives={ version="0.5", features=["sponge"] }
 des                  ="0.8"
-chacha20             ="0.9"
+chacha20             ="0.10"
 
 [[bin]]
 name="hmac_sha256_bin"
